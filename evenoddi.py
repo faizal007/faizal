@@ -1,7 +1,7 @@
-number_check=int(raw_input())
-if(number_check%2==0):
+number_ck=int(raw_input())
+if(number_ck%2==0):
   print("Even")
-elif(number_check<0):
+elif(number_ck<0):
   print("invalid")
 else:
   print("Odd")  
