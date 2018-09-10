@@ -1,9 +1,9 @@
-num1=int(raw_input())
-num2=int(raw_input())
-num3=int(raw_input())
-if (num1 >= num2) and (num1 >= num3):
-   print(num1)
-elif (num2 >= num1) and (num2 >= num3):
-   print(num2)
+num11=int(raw_input())
+num21=int(raw_input())
+num31=int(raw_input())
+if (num11 >= num21) and (num11 >= num31):
+   print(num11)
+elif (num21 >= num11) and (num21 >= num31):
+   print(num21)
 else:
-   print(num3)
+   print(num31)
