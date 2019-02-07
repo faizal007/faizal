@@ -1,3 +1,3 @@
-stfz="hello\n"
+stfz="Hello\n"
 n=input()
 print(stfz * int(n))
