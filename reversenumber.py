@@ -1,3 +1,3 @@
-fzl=str(input())
+fzl=str(input(""))
 print("")
 print(fzl[: :-1])
