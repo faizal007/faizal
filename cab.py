@@ -32,4 +32,4 @@ print("YOUR TOTAL DISTANCE:Rs.",c)
 print("FARE PER KM        :Rs.",m)
 print("TOTAL FARE         :Rs.",fare)
 print("\n\t\t--------------------")
-5
+
