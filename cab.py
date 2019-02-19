@@ -5,7 +5,7 @@ while True:
     sour=float(input("Enter source:"))
     dest=float(input("Enter Destination:"))
 
-    if(sour>=0and dest>=0 and sour<dest ):
+    if(sour>=0 and dest>=0 and sour<dest ):
       print("1-auto")
       print("2-mini")
       print("3-micro")
